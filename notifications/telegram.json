@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "reqresin_tests",
+    "environment": "prod",
+    "comment": "test examples for reqres.in",
+    "reportLink": "",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5979139348:AAHf-RDJiqfghH4Kt4eS7qbJa6x5RfGxVGo",
+    "chat": "-1001231089888",
+    "replyTo": ""
+  }
+}
