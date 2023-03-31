@@ -37,8 +37,6 @@ public class MobileDriver implements WebDriverProvider {
                 .setPlatformName(config.mobilePlatformName())
                 .setDeviceName(config.mobileDevice())
                 .setPlatformVersion(config.mobileVersion())
-//                .setDeviceName("RFCR90ZMNQP")
-//                .setPlatformVersion("13.0")
                 .setApp(getAppPath())
                 .setAppPackage(config.mobileAppPackage())
                 .setAppActivity(config.mobileAppActivity());
