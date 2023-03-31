@@ -29,5 +29,5 @@ Remote run:
 
 # Video of running tests
 <p align="center">
-<img src="/images/videos/wiki_video.gif" alt="video"/>
+<img src="/images/videos/wiki_videos.gif" alt="video"/>
 </p>
