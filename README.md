@@ -18,6 +18,11 @@
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
   <code><img width="5%" title="Android Studio" src="./images/icons/android.svg"></code>
 
+## Autotest scenarios (mobile)
+
+- [x] Wikipedia onboarding test
+- [x] Search article test
+- [x] Open article page test
 
 ## How to run
 
